@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReadAble - Accessible Reading Tools**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Express.js**
 
 - 👯 I’m looking to collaborate on **web applications**
 
