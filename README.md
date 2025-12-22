@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A Frontend Developer from Singapore</h3>
+<h3 align="center">A Full-stack Developer from Singapore</h3>
 
 - 🔭 I’m currently working on **LanguageHub**
 
