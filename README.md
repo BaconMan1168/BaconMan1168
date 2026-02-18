@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LanguageHub**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **scikit-learn**
 
 - 👯 I’m looking to collaborate on **web applications**
 
