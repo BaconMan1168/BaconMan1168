@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Full-stack Developer from Singapore</h3>
 
-- 🔭 I’m currently working on **LanguageHub**
+- 🔭 I’m currently working on **Philippine Online Directory**
 
 - 🌱 I’m currently learning **scikit-learn**
 
