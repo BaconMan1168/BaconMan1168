@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Full-stack Developer from Singapore</h3>
 
-- 🔭 I’m currently working on **Philippine Online Directory**
+- 🔭 I’m currently working on **Optirule**
 
-- 🌱 I’m currently learning **scikit-learn**
+- 👯 I’m looking to collaborate on **startups**
 
-- 👯 I’m looking to collaborate on **web applications**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **dguirao20@gmail.com**
 
