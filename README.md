@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Full-stack Developer from Singapore</h3>
 
-- Look at some cool stuff I'm doing here: danielguirao.vercel.app
+- Look at some cool stuff I'm doing here: <a href="danielguirao.vercel.app" target="_blank" rel="noreferrer">
 
 - 🔭 I’m currently working on **BagAI Ba? w/ DOST-PTRI and AAP**
 
